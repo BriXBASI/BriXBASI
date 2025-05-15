@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating AI Agents
 - 🌱 I’m currently learning how to create AI Agents
-- 👯 I’m looking to collaborate on peojects involving AI Agents and Swarms
+- 👯 I’m looking to collaborate on projects involving AI Agents and Swarms
 - 🤔 I’m looking for help with Prompt Engineering
 - 💬 Ask me about anything
 - 📫 How to reach me: brix_basi@icloud.com
